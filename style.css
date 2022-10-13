@@ -1,0 +1,44 @@
+#countdown {
+    color : #0d6efd;
+    border : 1px solid;
+    padding : 10px;
+    border-radius : 50px;
+}
+
+/* #cards{
+    display: none;
+} */
+
+#loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loader-con{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#000000eb;
+}
+
+.list-group-item{
+    background: transparent;
+}
+
+img{
+    max-width: 100%;
+}
+
+.confetti{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+ }

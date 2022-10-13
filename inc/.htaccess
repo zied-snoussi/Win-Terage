@@ -1,0 +1,2 @@
+Deny from all
+ErrorDocument 403 "<h1>Nice catch</h1><a href='./'>Go Home</a>" 
